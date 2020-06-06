@@ -11,4 +11,4 @@ require 'pry'
 def get_the_keys(groceries)
   groceries.keys.flatten
 end
-© 2020 GitHub, Inc.
+.
